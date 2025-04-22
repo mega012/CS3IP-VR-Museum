@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "VR Museum.sln"
+    "dotnet.defaultSolution": "CS3IP-VR-Museum.sln"
 }
